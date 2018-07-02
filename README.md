@@ -11,7 +11,6 @@ This script is something to be placed on the user desktop that ends the LinkIt p
 
 It runs on both 32-bit and 64-bit Windows and runs LinkIt from the default installation directory in the Demoteller folder. No local administrator rights should be required, as long as the drivers for the PIN pad are already installed. 
 
-#Screenshot
+# Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/smeggysmeg/FixLinkIt/master/Screenshot.png)
-Format: ![Screenshot](https://raw.githubusercontent.com/smeggysmeg/FixLinkIt/master/Screenshot.png)
