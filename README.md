@@ -10,3 +10,8 @@ The LinkIt application packaged by HID for connecting a PIN pad into TRISM and/o
 This script is something to be placed on the user desktop that ends the LinkIt process, instructs the user to disconnect and reconnect the PIN pad then wait for the Welcome message, and when they click OK it will re-start the LinkIt application. 
 
 It runs on both 32-bit and 64-bit Windows and runs LinkIt from the default installation directory in the Demoteller folder. No local administrator rights should be required, as long as the drivers for the PIN pad are already installed. 
+
+#Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/smeggysmeg/FixLinkIt/master/Screenshot.png)
+Format: ![Screenshot](https://raw.githubusercontent.com/smeggysmeg/FixLinkIt/master/Screenshot.png)
