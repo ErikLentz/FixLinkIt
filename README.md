@@ -13,4 +13,4 @@ It runs on both 32-bit and 64-bit Windows and runs LinkIt from the default insta
 
 # Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/smeggysmeg/FixLinkIt/master/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/ErikLentz/FixLinkIt/master/Screenshot.png)
