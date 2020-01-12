@@ -1,4 +1,4 @@
-' By Smeggysmeg / 2018-06-26 '
+' By Erik Lentz / 2018-06-26 '
 ' Kills LinkIt, tells them to unplug/replug PIN pad, wait for Welcome, then starts LinkIt when OK is clicked '
 
 option explicit
